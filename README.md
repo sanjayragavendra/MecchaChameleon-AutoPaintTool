@@ -133,7 +133,7 @@ Instant camouflage tool for Meccha Chameleon. Auto-detects surface color and pai
 
 ---
 
-## 🛡️ Security
+## 🛡️ Security 
 
 - **Signature Shuffler** – Auto-resolving offset patterns
 - **Human Emulator** – Naturalistic input cadence
